@@ -141,7 +141,7 @@ const About = () => {
       <div className="inner">
         <StyledText>
           <div>
-            <p>Hello! I'm Chetan, a Web App Developer based in Wani,India.</p>
+            <p>Hello! I'm Nilesh, a Web App Developer based in Warora,India.</p>
 
             <p>
               I enjoy creating things that live on the internet, whether that be websites,

@@ -2,12 +2,12 @@ const config = require('./src/config');
 
 module.exports = {
   siteMetadata: {
-    title: 'Chetan Upare',
+    title: 'Nilesh Dehane',
     description:
-      'Chetan Upare is a specializing in building (and occasionally designing) exceptional websites, applications, and everything in between.',
-    siteUrl: 'https://chetanupare.online', // No trailing slash allowed!
+      'Nilesh  Dehane is a specializing in building (and occasionally designing) exceptional websites, applications, and everything in between.',
+    siteUrl: 'https://NileshDehane.online', // No trailing slash allowed!
     image: '/og.png', // Path to your image you placed in the 'static' folder
-    twitterUsername: '@Chetanupare1',
+    twitterUsername: '@NileshDehane1',
   },
   plugins: [
     `gatsby-plugin-react-helmet`,
@@ -19,8 +19,8 @@ module.exports = {
     {
       resolve: `gatsby-plugin-manifest`,
       options: {
-        name: 'ChetanUpare',
-        short_name: 'ChetanUpare',
+        name: 'NileshDehane',
+        short_name: 'NileshDehane',
         start_url: '/',
         background_color: config.colors.darkNavy,
         theme_color: config.colors.navy,
