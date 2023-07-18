@@ -1,9 +1,9 @@
 ---
 date: '2018-05-14'
-title: 'Engineer'
-company: 'Upstatement'
-location: 'Boston, MA'
-range: 'May 2018 - Present'
+title: 'Software Engineer'
+company: 'Capgemini'
+location: 'India, Pune'
+range: 'May 2020 - Present'
 url: 'https://www.upstatement.com/'
 ---
 
