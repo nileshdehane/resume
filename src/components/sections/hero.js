@@ -48,11 +48,11 @@ const Hero = () => {
   }, []);
 
   const one = <h1>Hi, my name is</h1>;
-  const two = <h2 className="big-heading">Chetan Upare.</h2>;
+  const two = <h2 className="big-heading">Nilesh Dehane.</h2>;
   const three = <h3 className="big-heading">I build things for the web & Mobile.</h3>;
   const four = (
     <p>
-      I'm a Web Application Developer in Wani,India. Im specializing in Wordpress Development (and occasionally
+      I'm a Web Application Developer in Warora,India. Im specializing in Wordpress Development (and occasionally
       designing) exceptional websites, applications, and everything in between.
     </p>
   );

@@ -2,10 +2,10 @@
   "name": "v4",
   "description": "Personal Website V4",
   "version": "1.0.0",
-  "author": "Chetan Upare <chetan.upare1234@gmail.com>",
+  "author": "Nilesh Dehane <nileshdehane123@gmail.com>",
   "repository": {
     "type": "git",
-    "url": "https://github.com/chetanupare"
+    "url": "https://github.com/nileshdehane"
   },
   "keywords": [
     "gatsby"
