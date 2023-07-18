@@ -1,13 +1,14 @@
 ---
 date: '3'
-title: 'OctoProfile'
-cover: './octoprofile.png'
+title: 'The Farmers Village'
+cover: './thefarmersvillage.png'
 github: 'https://github.com/bchiang7/octoprofile'
-external: 'https://octoprofile.now.sh'
+external: 'https://thefarmersvillage.com/'
 tech:
-  - Next.js
-  - Chart.js
-  - GitHub API
+  - Wordpress
+  - Woocommerce
+  - PHP
+  - MySQL
 showInProjects: true
 ---
 
